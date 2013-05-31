@@ -10,6 +10,13 @@ Stable tag: 1.0.6
 
 WordPress and Standalone HTML5 SoundCloud Player with Playlist for SoundCloud Sets compatible with iOS, Android and supports all browsers Firefox, Chrome, Safari, IE and Opera!
 
+
+**Features**
+
+* Read MP3 files from SoundCloud User Sets
+* Horizonal and Vertical Playlist Player
+* Player color & background customization
+
 **Paid Features**
 
 * Self hosted player files
