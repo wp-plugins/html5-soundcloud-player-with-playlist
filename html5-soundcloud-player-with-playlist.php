@@ -2,7 +2,7 @@
 /*
 Plugin Name: HTML5 SoundCloud Player with Playlist 
 Plugin URI: http://html5plus.svnlabs.com/shop/html5-soundcloud-player-with-playlist/
-Description: HTML5 SoundCloud Player 
+Description: HTML5 SoundCloud Player with Playlist for SoundCloud Sets https://soundcloud.com/svnlabs/sets/svnlabs
 Version: 1.0.6
 Author: Sandeep Verma
 Author URI: http://www.svnlabs.com/
