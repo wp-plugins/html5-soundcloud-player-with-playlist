@@ -10,7 +10,7 @@ Stable tag: 1.0.6
 
 WordPress and Standalone HTML5 SoundCloud Player with Playlist for SoundCloud Sets compatible with iOS, Android and supports all browsers Firefox, Chrome, Safari, IE and Opera!
 
-**Features**
+**Paid Features**
 
 * Self hosted player files
 * Best support on email
@@ -25,7 +25,7 @@ You have to create new application on SoundCloud http://soundcloud.com/you/apps 
 [youtube http://www.youtube.com/watch?feature=player_embedded&v=B_Z9DLx-d14]
 
 
-[HTML5 SoundCloud Player with Playlist](http://html5plus.svnlabs.com/shop/html5-soundcloud-player-with-playlist/)
+[Buy Now HTML5 SoundCloud Player with Playlist](http://html5plus.svnlabs.com/shop/html5-soundcloud-player-with-playlist/)
 
 
 == Installation ==
