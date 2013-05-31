@@ -15,10 +15,12 @@ WordPress and Standalone HTML5 SoundCloud Player with Playlist for SoundCloud Se
 * Self hosted player files
 * Best support on email
 * Download songs option
-* MP3 Song’s information using ID3 Tags
+* MP3 Song's information using ID3 Tags
 * Customize Social Share on Facebook & Twitter
 * Volume Control
 * Embed Code Option
+
+You have to create new application on SoundCloud http://soundcloud.com/you/apps & get Client Id and Client Secret
 
 [youtube http://www.youtube.com/watch?feature=player_embedded&v=B_Z9DLx-d14]
 
@@ -31,7 +33,7 @@ WordPress and Standalone HTML5 SoundCloud Player with Playlist for SoundCloud Se
 Unzip "html5-soundcloud-player-with-playlist.zip" and copy folder "html5-soundcloud-player-with-playlist" into your wordpress plugins folder, normally located in /wp-content/plugins/
 
 
-Create new application on SoundCloud http://soundcloud.com/you/apps & get Client Id and Client Secret…
+Create new application on SoundCloud http://soundcloud.com/you/apps & get Client Id and Client Secret
 
 Then you need to enter 
 
