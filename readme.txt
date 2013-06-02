@@ -21,6 +21,8 @@ WordPress and Standalone HTML5 SoundCloud Player with Playlist for SoundCloud Se
 
 * Self hosted player files
 * Best support on email
+* Autoplay Playlist
+* Player Artwork
 * Download songs option
 * MP3 Song's information using ID3 Tags
 * Customize Social Share on Facebook & Twitter

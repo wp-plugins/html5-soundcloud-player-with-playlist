@@ -333,7 +333,7 @@ Create new application on SoundCloud <a href="http://soundcloud.com/you/apps" ta
         <th scope="row" valign="top"><label for="player">Player Artwork:</label></th>
         
         <td>
-        <input name="image" id="image" type="text" class="regular-text" value="<?php echo $image; ?>" />
+        <input name="image" id="image" type="text" class="regular-text" value="<?php echo $image; ?>" />&nbsp;(Paid Feature)
         </td>
       </tr>
       
