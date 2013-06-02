@@ -289,7 +289,7 @@ Create new application on SoundCloud <a href="http://soundcloud.com/you/apps" ta
         <th scope="row" valign="top"><label for="player">Player Autoplay:</label></th>
         
         <td>
-        <input name="autoplay" type="checkbox" <?php if($autoplay==1) { ?> checked="checked" <?php } ?> value="1"  />
+        <input name="autoplay" type="checkbox" <?php if($autoplay==1) { ?> checked="checked" <?php } ?> value="1"  /> &nbsp;(Paid Feature)
         </td>
       </tr>
       
