@@ -29,12 +29,11 @@ WordPress and Standalone HTML5 SoundCloud Player with Playlist for SoundCloud Se
 * Volume Control
 * Embed Code Option
 
+[Buy Now HTML5 SoundCloud Player with Playlist](http://html5plus.svnlabs.com/shop/html5-soundcloud-player-with-playlist/)
+
 You have to create new application on SoundCloud http://soundcloud.com/you/apps & get Client Id and Client Secret
 
 [youtube http://www.youtube.com/watch?feature=player_embedded&v=B_Z9DLx-d14]
-
-
-[Buy Now HTML5 SoundCloud Player with Playlist](http://html5plus.svnlabs.com/shop/html5-soundcloud-player-with-playlist/)
 
 
 == Installation ==
