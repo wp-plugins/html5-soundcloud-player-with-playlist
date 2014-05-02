@@ -1,4 +1,5 @@
 <?php
+error_reporting(0);
 
 global $wpdb;
 $table		=	$wpdb->prefix."html5soundcloud_playlist";

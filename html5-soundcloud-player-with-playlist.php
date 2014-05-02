@@ -1,4 +1,5 @@
 <?php
+error_reporting(0);
 /*
 Plugin Name: HTML5 SoundCloud Player with Playlist 
 Plugin URI: http://html5plus.svnlabs.com/shop/html5-soundcloud-player-with-playlist/
