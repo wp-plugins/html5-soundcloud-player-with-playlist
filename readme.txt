@@ -2,7 +2,7 @@
 Contributors: Sandeep Verma
 Tags: MP3 Player, SoundCloud Player, HTML5 Player
 Requires at least: 2.0
-Tested up to: 3.9
+Tested up to: 4.0
 Stable tag: 1.0.6
 
 
