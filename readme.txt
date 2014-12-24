@@ -2,8 +2,8 @@
 Contributors: Sandeep Verma
 Tags: MP3 Player, SoundCloud Player, HTML5 Player
 Requires at least: 2.0
-Tested up to: 4.0
-Stable tag: 1.0.6
+Tested up to: 4.1
+Stable tag: 2.3
 
 
 == Description ==
@@ -52,11 +52,7 @@ Client Secret: ?
 
 Shortcode for Page or Post
 
-[html5soundcloud id="1"]
-
-Or
-
-[html5soundcloud id="" html5soundcloudlink="https://soundcloud.com/svnlabs/sets/svnlabs" clientid="*********************" clientsecret="b155afb0***********616de24eff0" player="vertical" bcolor="cccccc" id3="1" image="http://svnlabs.com/logo.png" title="Folder Player" artist="Sandeep" facebook="http://www.facebook.com/svnlab" twitter="http://twitter.com/svnlabs" shadow="1" autoplay="1" download="1" background="" ]
+[html5tap id="1"]
 
 
 == Frequently Asked Questions ==
@@ -67,9 +63,6 @@ http://html5.svnlabs.com/faq/
 
 1. HTML5 SoundCloud Player  
 
-2. HTML5 SoundCloud Player Settings
-
-3. HTML5 SoundCloud Player with saved players
 
 == Changelog ==
 
