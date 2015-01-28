@@ -1,4 +1,4 @@
-=== HTML5 SoundCloud Player with Playlist ===
+=== HTML5 SoundCloud Player with Playlist Free ===
 Contributors: Sandeep Verma
 Tags: MP3 Player, SoundCloud Player, HTML5 Player
 Requires at least: 2.0
